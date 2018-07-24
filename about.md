@@ -5,13 +5,14 @@ permalink: /fin/
 ---
 
 ಈಗಿನ ತನಕದ ಖರ್ಚು ವೆಚ್ಚ
+</br>
 
 ಆದಾಯ: 
 
 Forex card: 2500
 
 Exchange of Euro notes: 120
-
+</br>
 
 ವ್ಯಯ:
 
@@ -33,7 +34,7 @@ Phone recharge: 10
 
 Apparel: 10
 
-
+</br>
 
 ಈಗಿನ ನನ್ನ forex ಕಾರ್ಡ್ ಬ್ಯಾಲೆನ್ಸ್
 220
