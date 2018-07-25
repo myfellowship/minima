@@ -9,6 +9,8 @@ Jekyll also offers powerful support for code snippets:
 
 ![](../assets/1.jpg)
 
+![test](../assets/1.jpg | width=48)
+
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
