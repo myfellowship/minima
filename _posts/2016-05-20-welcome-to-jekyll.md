@@ -9,7 +9,7 @@ Jekyll also offers powerful support for code snippets:
 
 
 <img src="/myfellowship/myfellowship/blob/master/assets/1.jpg" width="400">
-
+![minima theme preview](/screenshot.png)
 
 
 {% highlight ruby %}
