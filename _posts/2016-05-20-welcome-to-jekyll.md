@@ -8,7 +8,7 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 Jekyll also offers powerful support for code snippets:
 
 
-![Screenshot](/assets/1.jpg | width = 50)
+<img src="https://raw.githubusercontent.com/myfellowship/myfellowship/assets/1.jpg">
 
 
 {% highlight ruby %}
